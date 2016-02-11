@@ -45,6 +45,6 @@ console.log('All my users names are ');
 console.log('All my users names are ');
 //Now loop through your users Array and console.log every users name.
 
-  user.forEach(function(user) {
-    console.log(user.name);
+  users.forEach(function(user) {
+    console.log(users.name);
   })
